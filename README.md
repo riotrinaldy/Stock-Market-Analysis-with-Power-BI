@@ -46,3 +46,7 @@ Ideal for:
 
 This project demonstrates advanced use of **Power BI for financial analysis**, showing how to turn large data sets into actionable business intelligence. It’s suitable for presentations, dashboards, or analytical portfolios.
 
+## 📷 Preview
+
+![Stock Market Analysis](Stock%20Market%20Analysis.png)
+
